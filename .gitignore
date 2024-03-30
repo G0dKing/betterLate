@@ -1,0 +1,11 @@
+.env
+node_modules/
+package-lock.json
+client/node_modules/
+client/dist/
+client/package-lock.json
+*.log
+vscode/
+*.vscode
+client/.env
+static/

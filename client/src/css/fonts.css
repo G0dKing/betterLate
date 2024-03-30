@@ -1,0 +1,458 @@
+/* fonts.css */
+
+/* Cervanttis */
+@font-face {
+  font-family: 'Cervanttis';
+  src: local('Cervanttis'), url('../assets/fonts/Cervanttis.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Guild of Professional Actors */
+@font-face {
+  font-family: 'Guild';
+  src: local('guildof'), url('../assets/fonts/Guild.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Roboto */
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto'), url('../assets/fonts/Roboto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Banshee */
+@font-face {
+  font-family: 'Banshee';
+  src: local('Banshee'), url('../assets/fonts/Banshee.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Circular */
+@font-face {
+  font-family: 'Circular';
+  src: local('Circular'), url('../assets/fonts/Circular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Poppins */
+@font-face {
+  font-family: 'Poppins';
+  src: local('Poppins'), url('../assets/fonts/Poppins.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Sofia Pro */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: local('SofiaPro'), url('../assets/fonts/SofiaPro.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Futura Pro */
+@font-face {
+  font-family: 'Futura Pro';
+  src: local('FuturaRegular'), url('../assets/fonts/FuturaRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Gill Sans */
+@font-face {
+  font-family: 'Gill Sans';
+  src: local('GillSans'), url('../assets/fonts/GillSans.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Degular */
+@font-face {
+  font-family: 'Degular';
+  src: local('Degular'), url('../assets/fonts/Degular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Koldby */
+@font-face {
+  font-family: 'Koldby';
+  src: local('Koldby'), url('../assets/fonts/Koldby.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Sovana */
+@font-face {
+  font-family: 'Sovana';
+  src: local('Sovana'), url('../assets/fonts/Sovana.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Neue Montreal */
+@font-face {
+  font-family: 'Neue Montreal';
+  src: local('NeueMontreal'), url('../assets/fonts/NeueMontreal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Anurati */
+@font-face {
+  font-family: 'Anurati';
+  src: local('Anurati'), url('../assets/fonts/Anurati.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* CentersGeorge */
+@font-face {
+  font-family: 'CentersGeorge';
+  src: local('CentersGeorge'), url('../assets/fonts/CentersGeorge.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ClassyVogue */
+@font-face {
+  font-family: 'ClassyVogue';
+  src: local('ClassyVogue'), url('../assets/fonts/ClassyVogue.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* DomaineDisp-Regular */
+@font-face {
+  font-family: 'DomaineDisp-Regular';
+  src: local('DomaineDisp-Regular'), url('../assets/fonts/DomaineDisp-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* DomaineDisp-Semibold */
+@font-face {
+  font-family: 'DomaineDisp-Semibold';
+  src: local('DomaineDisp-Semibold'), url('../assets/fonts/DomaineDisp-Semibold.otf') format('opentype');
+  font-weight: semibold; /* Assuming semibold corresponds to a specific weight, usually around 600 */
+  font-style: normal;
+}
+
+/* FeijoaBold */
+@font-face {
+  font-family: 'FeijoaBold';
+  src: local('FeijoaBold'), url('../assets/fonts/FeijoaBold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* FeijoaDisplay */
+@font-face {
+  font-family: 'FeijoaDisplay';
+  src: local('FeijoaDisplay'), url('../assets/fonts/FeijoaDisplay.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* FeijoaMedium */
+@font-face {
+  font-family: 'FeijoaMedium';
+  src: local('FeijoaMedium'), url('../assets/fonts/FeijoaMedium.otf') format('opentype');
+  font-weight: medium; /* Assuming medium corresponds to a specific weight, typically around 500 */
+  font-style: normal;
+}
+
+/* Lillian */
+@font-face {
+  font-family: 'Lillian';
+  src: local('Lillian'), url('../assets/fonts/Lillian.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Neflit */
+@font-face {
+  font-family: 'Neflit';
+  src: local('Neflit'), url('../assets/fonts/Neflit.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* NOS */
+@font-face {
+  font-family: 'NOS';
+  src: local('NOS'), url('../assets/fonts/NOS.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Snorter */
+@font-face {
+  font-family: 'Snorter';
+  src: local('Snorter'), url('../assets/fonts/Snorter.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Valorant */
+@font-face {
+  font-family: 'Valorant';
+  src: local('Valorant'), url('../assets/fonts/Valorant.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Raleway Regular */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-Regular'), url('../assets/fonts/Raleway-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Raleway ExtraBold */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-ExtraBold'), url('../assets/fonts/raleway/Raleway-ExtraBold.ttf') format('truetype');
+  font-weight: 800; /* ExtraBold is often considered 800 */
+  font-style: normal;
+}
+
+/* Raleway ExtraLight */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-ExtraLight'), url('../assets/fonts/raleway/Raleway-ExtraLight.ttf') format('truetype');
+  font-weight: 200; /* ExtraLight is typically 200 */
+  font-style: normal;
+}
+
+/* Raleway Heavy */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-Heavy'), url('../assets/fonts/raleway/Raleway-Heavy.ttf') format('truetype');
+  font-weight: 900; /* Heavy is often the heaviest, at 900 */
+  font-style: normal;
+}
+
+/* Raleway Light */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-Light'), url('../assets/fonts/raleway/Raleway-Light.ttf') format('truetype');
+  font-weight: 300; /* Light is often 300 */
+  font-style: normal;
+}
+
+/* Raleway Medium */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-Medium'), url('../assets/fonts/raleway/Raleway-Medium.ttf') format('truetype');
+  font-weight: 500; /* Medium is typically 500 */
+  font-style: normal;
+}
+
+/* Raleway SemiBold */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-SemiBold'), url('../assets/fonts/raleway/Raleway-SemiBold.ttf') format('truetype');
+  font-weight: 600; /* SemiBold is often 600 */
+  font-style: normal;
+}
+
+/* Raleway Thin */
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway-Thin'), url('../assets/fonts/raleway/Raleway-Thin.ttf') format('truetype');
+  font-weight: 100; /* Thin is often the lightest, at 100 */
+  font-style: normal;
+}
+
+/* Algeko */
+@font-face {
+  font-family: 'Algeko';
+  src: local('Algeko'), url('../assets/fonts/Algeko.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Anteroly */
+@font-face {
+  font-family: 'Anteroly';
+  src: local('Anteroly'), url('../assets/fonts/anteroly.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Calvera */
+@font-face {
+  font-family: 'Calvera';
+  src: local('Calvera'), url('../assets/fonts/Calvera.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Efapro */
+@font-face {
+  font-family: 'Efapro';
+  src: local('Efapro'), url('../assets/fonts/efapro.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Fireflies */
+@font-face {
+  font-family: 'Fireflies';
+  src: local('Fireflies'), url('../assets/fonts/Fireflies.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Future Mood */
+@font-face {
+  font-family: 'Future Mood';
+  src: local('Future Mood'), url('../assets/fonts/future mood.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Gridlocked */
+@font-face {
+  font-family: 'Gridlocked';
+  src: local('Gridlocked'), url('../assets/fonts/Gridlocked.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Jasmine Laslo */
+@font-face {
+  font-family: 'Jasmine Laslo';
+  src: local('Jasmine Laslo'), url('../assets/fonts/Jasmine Laslo.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Juliet */
+@font-face {
+  font-family: 'Juliet';
+  src: local('Juliet'), url('../assets/fonts/Juliet.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Lotus */
+@font-face {
+  font-family: 'Lotus';
+  src: local('Lotus'), url('../assets/fonts/lotusf__.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Lovecraftimus */
+@font-face {
+  font-family: 'Lovecraftimus';
+  src: local('Lovecraftimus'), url('../assets/fonts/Lovecraftimus.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Merry Trace */
+@font-face {
+  font-family: 'Merry Trace';
+  src: local('Merry Trace'), url('../assets/fonts/Merry Trace.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Morphin Bold */
+@font-face {
+  font-family: 'Morphin Bold';
+  src: local('Morphin Bold'), url('../assets/fonts/Morphin Bold.ttf') format('truetype');
+  font-weight: bold; /* Assumed based on the name */
+  font-style: normal;
+}
+
+/* NearJanTschich */
+@font-face {
+  font-family: 'NearJanTschich';
+  src: local('NearJanTschich'), url('../assets/fonts/NearJanTschich.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Nostra 2003 J */
+@font-face {
+  font-family: 'Nostra 2003 J';
+  src: local('Nostra 2003 J'), url('../assets/fonts/Nostra 2003 J.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* OpTic */
+@font-face {
+  font-family: 'OpTic';
+  src: local('OpTic'), url('../assets/fonts/OpTic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Qeinsha */
+@font-face {
+  font-family: 'Qeinsha';
+  src: local('Qeinsha'), url('../assets/fonts/Qeinsha.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Radar */
+@font-face {
+  font-family: 'Radar';
+  src: local('Radar'), url('../assets/fonts/radar.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Refluxed */
+@font-face {
+  font-family: 'Refluxed';
+  src: local('Refluxed'), url('../assets/fonts/refluxed.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Roto Font-Bold */
+@font-face {
+  font-family: 'Roto Font-Bold';
+  src: local('Roto Font-Bold'), url('../assets/fonts/Roto Font-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Roto Font */
+@font-face {
+  font-family: 'Roto Font';
+  src: local('Roto Font'), url('../assets/fonts/Roto Font.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Waranty */
+@font-face {
+  font-family: 'Waranty';
+  src: local('Waranty'), url('../assets/fonts/Waranty.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Zdyk Pisces */
+@font-face {
+  font-family: 'Zdyk Pisces';
+  src: local('Zdyk Pisces'), url('../assets/fonts/Zdyk Pisces.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
