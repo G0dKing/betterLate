@@ -1,5 +1,4 @@
-#  betterLate
-## Fullstack Landing Page Template
+#  betterLate - Fullstack Landing Page Template
 ### |Node.js |Express.js |React.js |Vite.js
 ![Screenshot 2024-03-31 at 06-05-06 Home - betterLate](https://github.com/G0dKing/betterLate/assets/68952952/e8189988-0611-4097-b466-ce444dcdde53)
 <br>
