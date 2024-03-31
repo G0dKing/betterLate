@@ -9,3 +9,4 @@ vscode/
 *.vscode
 client/.env
 static/
+*.psd

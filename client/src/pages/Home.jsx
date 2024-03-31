@@ -1,4 +1,4 @@
-import { } from "react";
+import {} from "react";
 import "../css/style.css";
 import logo from "../assets/logo.png";
 import Copyright from "../components/Copyright";
@@ -39,7 +39,7 @@ const Home = () => {
           </button>
         </div>
       </div>
-      <Copyright /> 
+      <Copyright />
     </>
   );
 };
