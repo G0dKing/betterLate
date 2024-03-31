@@ -1,11 +1,11 @@
 #  betterLate
 ## Fullstack Landing Page Template
-### Node/Express/React/Vite
-<br />
+### |Node.js |Express.js |React.js |Vite.js
+<br>
 ![Screenshot 2024-03-31 at 06-05-06 Home - betterLate](https://github.com/G0dKing/betterLate/assets/68952952/e8189988-0611-4097-b466-ce444dcdde53)
-<br />
+<br>
 ### I. Dependencies
-Requires the latest versions of Node.js and NPM. Refer to the [official documentation](https://nodejs.org/en/download/). Alternatively, install using [Node Version Manager](https://github.com/nvm-sh/nvm)
+Requires the latest versions of Node.js and NPM. Refer to the [official documentation](https://nodejs.org/en/download/). Alternatively, install using [Node Version Manager](https://github.com/nvm-sh/nvm).
 ## II. Usage
 ```
 git clone https://github.com/G0dKing/betterLate.git
